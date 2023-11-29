@@ -7,6 +7,6 @@ example `./rand_img_gen.exe 600 600 "./output.bmp"`
 
 result:
 
-![](./output.bmp)
+![](./output.png)
 
-file format should be bmp otherwise the image is not going to open
+file format should be bmp otherwise the image is not going to open (there's a .png in this repo because github doesnt want to display bmp images for some reason)
